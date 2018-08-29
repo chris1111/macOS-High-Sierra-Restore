@@ -27,8 +27,7 @@ NOTE: You must have a USB key 8 Gig minimum.
    [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/75capt10.png)
    
    ### Follow every steps in the Video 
-                      ⇩
-
+   
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captur86.png)](https://youtu.be/0wL41SNTkMc)
    
 - Important for booting
