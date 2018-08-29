@@ -6,6 +6,9 @@
 ### Its an Applications for install macOS High Sierra using Base System USB Installer
 - App is build with Platypus-5.2
 - The patch is base on dosdude1 HS Patcher
+- Clover EFI revision r4663 Build UDK2018, Xcode 9.4.1 (9F2000)
+- Developers: Slice, with help of Kabyl, usr-sse2, jadran, Blackosx, dmazar, STLVNUB, pcj, apianti, JrCs, pene, FrodoKenny, skoczy, ycr.ru, Oscar09, xsmile, SoThOr, rehabman, Download-Fritz, Zenit432, cecekpawon…
+
 
 #### Working inside Sierra, High Sierra, Mojave.
  - Instructions:
