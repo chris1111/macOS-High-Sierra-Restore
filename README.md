@@ -18,6 +18,11 @@ NOTE: You must have a USB key 8 Gig minimum.
    - Standard USB Be patient Wait . . .
    - You must have the SIP Security disable as well as the Gatekeeper to use this program!
    
+#### Screenshot
+
+   [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/75capt10.png)
+   
+   
    
 - Important for booting
    - Use the Clover Package it contains two config.plist, the default one is for PC and another config-Laptop.plist
