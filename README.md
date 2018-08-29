@@ -4,6 +4,7 @@
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/applet13.png)
 
 ### Its an Applications for install macOS High Sierra using Base System USB Installer
+- App is build with Platypus-5.2
 - The patch is base on dosdude1 HS Patcher
 
 #### Working inside Sierra, High Sierra, Mojave.
