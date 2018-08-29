@@ -39,4 +39,4 @@ NOTE: You must have a USB key 8 Gig minimum.
     in Mac OS Extended journaled / GUID or / MBR 
    - You can also format it in APFS / GUID
    
-#### Download Release [➤ macOS High Sierra Restore.dmg ]()
+#### Download Release V1 [➤ macOS High Sierra Restore.dmg ](https://github.com/chris1111/macOS-High-Sierra-Restore/releases/tag/V1)
