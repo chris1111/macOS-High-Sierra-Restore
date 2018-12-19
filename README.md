@@ -1,5 +1,8 @@
 # macOS-High-Sierra-Restore
 ## Program for Hackintosh PC or Laptop
+- This is to test macOS
+- Buy a mac after testing macOS
+
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/applet13.png)
 
